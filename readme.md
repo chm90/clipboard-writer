@@ -6,12 +6,11 @@
 
 python 36
 
-````bash
+```bash
 pip install pyautogui
 pip install pyobjc-framework-Quartz
 pip install clipboard
-
-´´´
+```
 
 ## Usage
 
@@ -20,7 +19,7 @@ pip install clipboard
 2. 
 ```bash
 python paster.py -t 3
-´´´
+```
 
 3. Then move the mouse focus to desired text output destination within 3 seconds.
 4. Enjoy!
