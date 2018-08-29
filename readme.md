@@ -4,7 +4,7 @@
 
 ## Requirements
 
-python 36
+python 3.6
 
 ```bash
 pip install pyautogui
